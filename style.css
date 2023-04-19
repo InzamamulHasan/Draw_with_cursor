@@ -1,0 +1,22 @@
+
+.cursor{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: rgb(190, 190, 198);
+    transform: translate(-50%,-50%);
+   
+}
+.cursor2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border: 2px solid rgb(33, 33, 33);
+
+    
+}
+
+
